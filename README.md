@@ -1,4 +1,4 @@
 # learn_msib_bc_kelompok_3
-Aisyah Fitriani
-afitriani441@gmail.com
-Pekanbaru
+Nama: Aisyah Fitriani
+Email: afitriani441@gmail.com
+Kota: Pekanbaru
