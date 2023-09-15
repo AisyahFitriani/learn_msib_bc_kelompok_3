@@ -1,0 +1,1 @@
+// Deklarasi variabel menggunakan var
